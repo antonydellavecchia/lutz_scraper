@@ -1,9 +1,10 @@
 # Install with dev Oscar
 
 ## Activate environment
+From root of project do 
+
 ```
-julia> import Pkg; Pkg.activate("/home/antonydv/projects/lutz_scraper/")
-  Activating project at `~/projects/lutz_scraper`
+julia> ]activate .
 
 julia> ]instantiate
 
